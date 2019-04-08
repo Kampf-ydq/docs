@@ -107,7 +107,7 @@
 此次比赛，让我接触到了计算机视觉，见到了“实体”程序的魅力，不再是黑色的控制台。总而言之，这个项目让我学会了基本的图像处理技术，感受到了计算机视觉的魅力，领略到了`OpenCV`的强大。我，还会继续`OpenCV`的学习！
 
     - <font size="3px">项目地址</font>&emsp;
-`上传中`
+[`机器车装甲识别`](https://github.com/MapCy/practice/tree/master/arromrDetect)
 
 4. <font size="4px"><kbd>风电场监控</kbd></font>
     - <font size="3px">项目介绍</font>&emsp;
