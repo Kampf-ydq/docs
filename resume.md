@@ -1,8 +1,10 @@
 #个人简历
 <br>
 ##个人基本信息
->`姓名` 杨道青&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`性别` 男<br>
->`年龄` 21&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`手机` 18540279973<br>
+>`姓名` 杨道青
+>`性别` 男<br>
+>`年龄`
+>`手机` 18540279973<br>
 >`QQ` 2359133163<br>
 >`E-MAIL` 2359133163@qq.com<br>
 >`毕业学校` 沈阳工业大学&emsp;信息科学与工程&emsp;计算机科学与技术<br>
