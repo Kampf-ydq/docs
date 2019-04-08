@@ -120,7 +120,7 @@
 这是在“小当家”之后做出的对C/S开发模式的探索(更多的是向往)，虽然项目还在完善中，但还是感谢自己愿意探索、愿意尝试的态度。加油，`myself!`
 
     - <font size="3px">项目地址</font>&emsp;
-`上传中`
+[`风电场监控服务端`](https://github.com/MapCy/practice/tree/master/workSpace/moon-manager)
 
 
 ##求职意向
