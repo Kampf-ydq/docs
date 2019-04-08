@@ -11,7 +11,7 @@
 >`GitHub` [`https://github.com/MapCy`](https://github.com/MapCy)
 <br>
 
-##个人专长
+##个人专长<br>
 &emsp;【说明】 简历所列技能，并不是说都精通，但都使用过，并且大部分有项目经历。<br>
 >**技能**
 
