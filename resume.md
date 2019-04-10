@@ -1,15 +1,17 @@
 #个人简历
 <br>
 ##个人基本信息
->`姓名` 杨道青&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`性别` 男<br>
->`年龄` 21&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`手机` 18540279973<br>
+>`姓名` 杨道青<br>
+>`性别` 男<br>
+>`年龄` 21<br>
+>`手机` 18540279973<br>
 >`QQ` 2359133163<br>
 >`E-MAIL` 2359133163@qq.com<br>
 >`毕业学校` 沈阳工业大学&emsp;信息科学与工程&emsp;计算机科学与技术<br>
 >`GitHub` [`https://github.com/MapCy`](https://github.com/MapCy)
 <br>
 
-##个人专长
+##个人专长<br>
 &emsp;【说明】 简历所列技能，并不是说都精通，但都使用过，并且大部分有项目经历。<br>
 >**技能**
 
@@ -105,7 +107,7 @@
 此次比赛，让我接触到了计算机视觉，见到了“实体”程序的魅力，不再是黑色的控制台。总而言之，这个项目让我学会了基本的图像处理技术，感受到了计算机视觉的魅力，领略到了`OpenCV`的强大。我，还会继续`OpenCV`的学习！
 
     - <font size="3px">项目地址</font>&emsp;
-`上传中`
+[`机器车装甲识别`](https://github.com/MapCy/practice/tree/master/arromrDetect)
 
 4. <font size="4px"><kbd>风电场监控</kbd></font>
     - <font size="3px">项目介绍</font>&emsp;
@@ -118,7 +120,7 @@
 这是在“小当家”之后做出的对C/S开发模式的探索(更多的是向往)，虽然项目还在完善中，但还是感谢自己愿意探索、愿意尝试的态度。加油，`myself!`
 
     - <font size="3px">项目地址</font>&emsp;
-`上传中`
+[`风电场监控服务端`](https://github.com/MapCy/practice/tree/master/workSpace/moon-manager)
 
 
 ##求职意向
