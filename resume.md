@@ -59,7 +59,7 @@
 > `Situation`：装甲识别旨在识别敌方机器人装甲灯条，完成自动瞄准、设计的任务。    
 > `Task`：参与视觉组的装甲识别功能开发，获取摄像头输入帧，完成对敌方装甲的识别任务。    
 > `Action`：Windows操作系统，基于Visual Studio2015集成开发工具，使用OpenCV开源库，完成识别任务。    
-> `Result`：制作掩模，设置感兴趣区域，提取目标区，之后旋转矩形拟合，完成识别。
+> `Result`：制作掩模，设置感兴趣区域，提取目标区，之后旋转矩形拟合，完成识别。  
 > `Other`：[装甲识别总结文档]()
 
 * 2017.04-2017.05 [智能手表](https://github.com/MapCy/practice/tree/master/iwatchScreen)
