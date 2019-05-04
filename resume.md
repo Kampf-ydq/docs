@@ -46,21 +46,21 @@
 > `Task`：负责应用的整体设计，以及建立后台数据库、编写布局文件、功能类的开发和测试等工作。  
 > `Action`：使用Visio设计数据库(E-R图)，采用安卓内嵌数据库SQLite完成数据库开发。在Windows平台下利用eclipse编写布局文件、活动类、工具类，期间采用AndroidTestCase实现函数功能测试。  
 > `Result`：编写了5个包，32个类，完成了13个Activity的开发，实现了系统设计之初90%的功能。21个布局文件的开发，涵盖了小当家应用的所有交互界面。  
-> `Other`：[小当家设计文档]() / [应用截图]()
+> `Other`：[小当家设计文档](https://github.com/MapCy/summarydoc) / [应用截图](https://github.com/MapCy/PettyMan/blob/master/show_picture.md)
 
 * 2018.10-2018.11 [风电场监控移动应用](https://github.com/MapCy/FanControll)
 > `Situation`：风电场监控平台是一款安卓应用，该应用具有数据监控、报修、紧急联系监控中心、生成调度策略等功能。  
 > `Task`：负责应用的整体设计，以及客户端开发、服务端搭建等工作。   
 > `Action`：客户端使用ADT开发，服务端使用Maven管理项目，采用SSM框架开发服务端程序。  
 > `Result`：前后端同时开发，完成了登录、风场状态监控、紧急联系人管理等功能。  
-> `Other`：[风电场监控服务端](https://github.com/MapCy/FanControllServer) / [应用截图]()
+> `Other`：[风电场监控服务端](https://github.com/MapCy/FanControllServer)
 
 * 2018.02-2018.05 [机甲大师装甲识别](https://github.com/MapCy/practice/tree/master/arromrDetect)
 > `Situation`：装甲识别旨在识别敌方机器人装甲灯条，完成自动瞄准、设计的任务。    
 > `Task`：参与视觉组的装甲识别功能开发，获取摄像头输入帧，完成对敌方装甲的识别任务。    
 > `Action`：Windows操作系统，基于Visual Studio2015集成开发工具，使用OpenCV开源库，完成识别任务。    
 > `Result`：制作掩模，设置感兴趣区域，提取目标区，之后旋转矩形拟合，完成识别。  
-> `Other`：[装甲识别总结文档]()
+> `Other`：[装甲识别总结文档](https://github.com/MapCy/summarydoc)
 
 * 2017.04-2017.05 [智能手表](https://github.com/MapCy/practice/tree/master/iwatchScreen)
 > `Situation`：该系统包含计步、拨打电话、管理联系人(添加、删除、查找、修改)、计算BMI健康指数等功能，模拟了拨打电话、接听电话的过程，以及心率计算、步行排行榜。       
