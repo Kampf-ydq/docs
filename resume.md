@@ -68,7 +68,7 @@
 > `Other`：[风电场监控服务端](https://github.com/MapCy/FanControllServer)
 
 * 2018.02-2018.05 [机甲大师装甲识别](https://github.com/MapCy/practice/tree/master/arromrDetect)
-> `Situation`：装甲识别旨在识别敌方机器人装甲灯条，完成自动瞄准、设计的任务。    
+> `Situation`：装甲识别旨在识别敌方机器人装甲灯条，完成自动瞄准、射击的任务。    
 >
 > `Task`：参与视觉组的装甲识别功能开发，获取摄像头输入帧，完成对敌方装甲的识别任务。    
 >
