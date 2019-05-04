@@ -36,11 +36,44 @@
 ## 项目经历
 >&emsp;&emsp;以下项目虽然简单，但基本涵盖了我从大一到现在做过的所有东西，见证了自己的成长。
 
-* 小当家PettyMan
+* 2019.02-2019.04 [“喝吗鲜生”销售网站](https://github.com/MapCy/HeMa)（迭代持续中）
+> `Situation`：“喝吗鲜生”为大创项目，是一个绿色果蔬销售网站，包含基本的登录、注册、加入购物车、订单提交、支付、个人中心管理、收货地址编辑以及账号注销等功能。  
+> `Task`：负责网站的整体设计，以及服务端的开发、测试和部署等工作。  
+> `Action`：搭建服务端（SSM）框架，连接MySQL数据库。Maven管理工程，tomcat热部署到阿里云服务器。
+> `Result`：成功创建Maven工程，编写了用户、购物车、商品等后台控制器，实现了注册登录、购物车管理、用户管理以及收货地址信息的管理等功能。  
+> `Other`: [“喝吗鲜生”后端](https://github.com/MapCy/HeMaServer) / [网站体验链接](http://47.94.198.96:8080/index.html)
+
+* 2018.12-2019.01 [小当家移动应用](https://github.com/MapCy/PettyMan)
 > `Situation`：“小当家”是一款安卓购物app，大致分为学习和购物两大功能（利用学习获得的奖励金币进行商品购买），包含基本的登录注册、商品浏览、购买、支付、个人中心、收货地址编辑以及学习计时等功能。  
 > `Task`：负责应用的整体设计，以及建立后台数据库、编写布局文件、功能类的开发和测试等工作。  
 > `Action`：使用Visio设计数据库(E-R图)，采用安卓内嵌数据库SQLite完成数据库开发。在Windows平台下利用eclipse编写布局文件、活动类、工具类，期间采用AndroidTestCase实现函数功能测试。  
-> `Result`：编写了5个包，32个类，完成了13个Activity的开发，实现了系统设计之初90%的功能。21个布局文件的开发，涵盖了小当家应用的所有交互界面。
+> `Result`：编写了5个包，32个类，完成了13个Activity的开发，实现了系统设计之初90%的功能。21个布局文件的开发，涵盖了小当家应用的所有交互界面。  
+> `Other`：[小当家设计文档]() / [应用截图]()
+
+* 2018.02-2018.05 [机甲大师装甲识别](https://github.com/MapCy/practice/tree/master/arromrDetect)
+> `Situation`：装甲识别旨在识别敌方机器人装甲灯条，完成自动瞄准、设计的任务。    
+> `Task`：参与视觉组的装甲识别功能开发，获取摄像头输入帧，完成对敌方装甲的识别任务。    
+> `Action`：Windows操作系统，基于Visual Studio2015集成开发工具，使用OpenCV开源库，完成识别任务。    
+> `Result`：制作掩模，设置感兴趣区域，提取目标区，之后旋转矩形拟合，完成识别。
+> `Other`：[装甲识别总结文档]()
+
+* 2017.04-2017.05 [智能手表](https://github.com/MapCy/practice/tree/master/iwatchScreen)
+> `Situation`：装甲识别旨在识别敌方机器人装甲灯条，完成自动瞄准、设计的任务。    
+> `Task`：参与视觉组的装甲识别功能开发，获取摄像头输入帧，完成对敌方装甲的识别任务。    
+> `Action`：Windows操作系统，基于Visual Studio2015集成开发工具，使用OpenCV开源库，完成识别任务。    
+> `Result`：制作掩模，设置感兴趣区域，提取目标区，之后旋转矩形拟合，完成识别。
+> `Other`：[装甲识别总结文档]()
+
+
+
+
+
+
+
+
+
+
+
 
 1. <font size="4px"><kbd>`iwatch`智能手表</kbd></font>
 
@@ -57,31 +90,7 @@
     - <font size="3px">项目地址</font>&emsp;
 [`智能手表`](https://github.com/MapCy/practice/tree/master/iwatchScreen)
 
-2. 小当家app</font>
-    - <font size="3px">项目介绍</font>&emsp;
 
-
-    - <font size="3px">实现</font>&emsp;
-`java`编程，采用安卓开发的技术，利用`SQLite`数据库存储数据。
-
-    - <font size="3px">感悟</font>&emsp;
-尽管自己很喜欢`C/S`开发模式，喜欢那种动态的、一直在变化的、给人新颖感觉的交互方式，喜欢井然有序的前后端分开开发，以及对后台强大处理能力的好奇。但由于技术有限，只得采用静态的、本地的方式，开发这款`app`，既是给自己学习`Android`开发的一个交代，也是为学习`C/S`开发做一个铺垫吧！
-
-    - <font size="3px">项目地址</font>&emsp;
-[`小当家`](https://github.com/MapCy/practice/tree/master/Eat)
-
-3. <font size="4px"><kbd>装甲识别</kbd></font>
-    - <font size="3px">项目介绍</font>&emsp;
-`C++`编程，这是我`2018`年`5`月参加机甲大师比赛，负责视觉识别所做的项目。目的是识别机器车上的`LED`灯条，分辨敌我，完成自动瞄准、射击的功能。
-
-    - <font size="3px">实现</font>&emsp;
-利用`OpenCV`开源框架，对摄像头采集的数据进行处理，具体的实现方法、采用的处理过程见《[机甲大师视觉识别项目总结](https://github.com/MapCy/techDoc)》文档。
-
-    - <font size="3px">感悟</font>&emsp;
-此次比赛，让我接触到了计算机视觉，见到了“实体”程序的魅力，不再是黑色的控制台。总而言之，这个项目让我学会了基本的图像处理技术，感受到了计算机视觉的魅力，领略到了`OpenCV`的强大。我，还会继续`OpenCV`的学习！
-
-    - <font size="3px">项目地址</font>&emsp;
-[`机器车装甲识别`](https://github.com/MapCy/practice/tree/master/arromrDetect)
 
 4. <font size="4px"><kbd>风电场监控</kbd></font>
     - <font size="3px">项目介绍</font>&emsp;
