@@ -19,7 +19,7 @@
 <br>
 
 ##技能清单
-* 良好的java基础，熟练掌握面向对象设计思想
+* 良好的Java/C/C++基础，熟练掌握面向对象设计思想
 
 * 熟练运用Android数据存储（文件、SQLite、SharedPreferences等）
 
